@@ -1,4 +1,4 @@
 pandas
 numpy
-seaborne
+seaborn
 flask
